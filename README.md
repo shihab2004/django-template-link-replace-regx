@@ -7,6 +7,6 @@ djregx.py is an open-source script that allows developers to replace HTML templa
 
 # How to Use
 1. Run the script.
-2. Input the Html File
-3. Input all possible Static directory path one by one. Example: `1. assets/css  2. js  3. media/img`
-4. Done
+2. Input the Html File Path.
+3. Input all possible Static directory path one by one. Example: `1. assets/css  2. js  3. media/img`.
+4. Done.
