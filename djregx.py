@@ -10,7 +10,7 @@ path = input( Fore.YELLOW +"File Path: ")
 file_directory = []
 
 while True:
-    _expression = input(Fore.BLUE  + "Linked Directory Path: ")
+    _expression = input(Fore.LIGHTMAGENTA_EX  + "Linked Directory Path: ")
     if not _expression:
         break
     file_directory.append(_expression)
